@@ -21,7 +21,7 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "about"
     label: "About Page"
-    folder: "src/content/about"
+    folder: "public/content/about"
     create: false
     slug: "{{slug}}"
     fields:

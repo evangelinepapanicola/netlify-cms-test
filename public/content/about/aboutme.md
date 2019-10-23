@@ -1,7 +1,7 @@
 ---
 layout: blog
-title: About Me?
-thumbnail: /img/logo.png
+title: About Me
+thumbnail: /img/privateers-logo-colour-v4.png
 ---
 **Lorem ipsum dolor sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sapien pellentesque habitant morbi tristique senectus et netus et. In fermentum posuere urna nec tincidunt praesent semper feugiat. Id diam maecenas ultricies mi. Donec massa sapien faucibus et. Magna fermentum iaculis eu non diam phasellus vestibulum. Vivamus at augue eget arcu dictum varius duis at consectetur. Tempus egestas sed sed risus. Convallis a cras semper auctor neque vitae tempus. Ullamcorper eget nulla facilisi etiam dignissim diam quis enim lobortis. Elementum nibh tellus molestie nunc non blandit massa. Laoreet id donec ultrices tincidunt arcu non. Cras fermentum odio eu feugiat. Enim neque volutpat ac tincidunt vitae semper quis lectus. Pellentesque habitant morbi tristique senectus et netus et. Aliquet risus feugiat in ante. Lorem ipsum dolor sit amet. Adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus.
 

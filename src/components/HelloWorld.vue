@@ -97,10 +97,10 @@ export default {
     fetch("./content/about/aboutme.md")
       .then(response => response.text())
       .then(markdown => {
-        console.log(markdown);
+        //console.log(markdown);
         const converter = new showdown.Converter();
         const html = converter.makeHtml(markdown);
-        console.log(html);
+        //console.log(html);
         document.getElementById("content").innerHTML = html;
       });
   }

@@ -1,6 +1,9 @@
 ---
 layout: blog
 title: About Me
-thumbnail: /img/privateers-logo-colour-v4.png
+thumbnail: /img/isabelle.jpg
 ---
-**blah blah blah**
+This is a test, a test, a *very cool* test. Ooh this is **bold!**
+
+* Do bullet points work?
+* Do they?
